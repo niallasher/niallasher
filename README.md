@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Current project: socialserver-neo, an open-source social media server
+
+Fun fact: pretty sure i got brain damage or smth
+
 <!--
 **niallasher/niallasher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
